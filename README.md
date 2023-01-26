@@ -22,3 +22,13 @@
 ### Wait until building process finish
 
 ### Follow the steps displayed on terminal to implement the generated overlay in your ROM build
+
+### Example :
+ 
+ <img src="https://github.com/Sanju0910/Sanju0910/blob/main/images/psw1.png" />
+ 
+ <img src="https://github.com/Sanju0910/Sanju0910/blob/main/images/psw2.png" />
+ 
+ <img src="https://github.com/Sanju0910/Sanju0910/blob/main/images/psw3.png" />
+ 
+ <img src="https://github.com/Sanju0910/Sanju0910/blob/main/images/psw4.png" />
