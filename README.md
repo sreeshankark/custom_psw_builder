@@ -25,7 +25,7 @@
 
 ### Example :
  
- <img src="https://github.com/Sanju0910/Sanju0910/blob/main/images/psw1.png" />
+ <img src="https://github.com/Sanju0910/Sanju0910/blob/main/images/psw.png" />
  
  <img src="https://github.com/Sanju0910/Sanju0910/blob/main/images/psw2.png" />
  
