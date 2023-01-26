@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2023 CUSTOM PIXEL SETUP WIZARD BUILDER
+     This file is a part of
+     
+     		 https://www.github.com/Sanju0910/custom_psw_builder
+     		 
+     Author: Sreeshankar K (https://www.github.com/Sanju0910) -->
+ 
+<resources>
+    <string name="bc_welcome_message">ನಿಮ್ಮ BRAND_NAME ಗೆ ಸ್ವಾಗತ</string>
+    <string name="deferred_setup_wizard_title">ROM_NAME ಸೆಟಪ್ ಮಾಡುವುದನ್ನು ಪೂರ್ಣಗೊಳಿಸಿ</string>
+    <string name="device_name">DEVICE_NAME</string>
+    <string name="setup_wizard_title">ROM_NAME ಸೆಟಪ್</string>
+</resources>

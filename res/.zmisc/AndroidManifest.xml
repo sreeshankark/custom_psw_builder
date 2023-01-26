@@ -1,0 +1,13 @@
+<!-- Copyright (C) 2023 CUSTOM PIXEL SETUP WIZARD BUILDER
+     This file is a part of
+     
+     		 https://www.github.com/Sanju0910/custom_psw_builder
+     		 
+     Author: Sreeshankar K (https://www.github.com/Sanju0910) -->
+ 
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.google.android.pixel.setupwizard.strings.overlay"
+    android:versionCode="1"
+    android:versionName="1.0">
+    <overlay android:targetName="PixelSetupWizard" android:targetPackage="com.google.android.pixel.setupwizard" android:isStatic="true" />
+</manifest>

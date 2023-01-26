@@ -1,0 +1,13 @@
+//
+// Copyright (C) 2023 CUSTOM PIXEL SETUP WIZARD BUILDER
+//  This file is a part of
+//     
+//     		 https://www.github.com/Sanju0910/custom_psw_builder
+//     		 
+//     Author: Sreeshankar K (https://www.github.com/Sanju0910) -->
+// 
+
+runtime_resource_overlay {
+    name: "PixelSetupWizardResTarget",
+    product_specific: true,
+}
