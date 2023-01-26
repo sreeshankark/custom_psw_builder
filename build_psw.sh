@@ -18,7 +18,7 @@ echo -e "\e[1;36m";
 		echo -e "";
 			read -p "Enter Your Device Name (eg: OnePlus Nord): " DEVICE;
 				echo -e "";
-			read -p "Enter Your Custom ROM Name(eg: Pixel Experience): " ROM;
+			read -p "Enter Your Custom ROM Name (eg: Pixel Experience): " ROM;
 			echo -e "";
 		echo -e "\e[0m";
 }
