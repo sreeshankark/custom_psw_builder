@@ -6,12 +6,12 @@
 #   Author: Sreeshankar K (https://www.github.com/Sanju0910)
 #
 clear;
-echo -e "############################################################################";
-echo -e "##   \e[1;35mCUSTOM PIXEL SETUP WIZARD OVERLAY BUILDER FOR AOSP ROM DEVELOPMENT\e[0m   ##";
-echo -e "##                        \e[1;36mSPOOF PIXEL SETUP WIZARD !\e[0m                      ##";
-echo -e "##  \e[1;32mBuild custom named welcome screen and setup wizard for your AOSP ROM\e[0m  ##";
-echo -e "##                                                                        ##";   
-echo -e "############################################################################";
+echo -e "########################################################################################";
+echo -e "##   \e[1;35mCUSTOM PIXEL SETUP WIZARD OVERLAY BUILDER FOR PIXEL BASED AOSP ROM DEVELOPMENT\e[0m   ##";
+echo -e "##                           \e[1;36mSPOOF PIXEL SETUP WIZARD !\e[0m                               ##";
+echo -e "##      \e[1;32mBuild custom named welcome screen and setup wizard for your AOSP ROM\e[0m          ##";
+echo -e "##                                                                                    ##";   
+echo -e "########################################################################################";
 get_var(){
 echo -e "\e[1;36m";
 	read -p "Enter Your Device Manufacturer Name (eg: OnePlus): " BRAND;
@@ -93,10 +93,10 @@ echo " ";
 echo -e "\e[1;32mDone\e[0m";
 echo " ";
 sleep 0.1;
-echo -e "  ***********************************************************************";
-echo -e "  *                            \e[1;35mCONGRATULATIONS !                        \e[0m*";
-echo -e "  *\e[1;32m               YOUR CUSTOM PIXEL SETUP WIZARD IS READY !             \e[0m*";
-echo -e "  ***********************************************************************";
+echo -e "        ***********************************************************************";
+echo -e "        *                          \e[1;35mCONGRATULATIONS !                          \e[0m*";
+echo -e "        *\e[1;32m               YOUR CUSTOM PIXEL SETUP WIZARD IS READY !             \e[0m*";
+echo -e "        ***********************************************************************";
 echo " ";
 sleep 0.1;
 echo -e "\e[1;36mWhat's next?";
@@ -133,14 +133,14 @@ local TAR_DIR=res;
 conclude(){
 echo " ";
 sleep 0.1;
-echo -e "  ***********************************************************************";
-echo -e "  *\e[1;36m                  Tool developed by Sreeshankar K                    \e[0m*";
-echo -e "  *\e[1;31m                Github: https://github.com/Sanju0910                 \e[0m*";
-echo -e "  *                                                                     *";
-echo -e "  *\e[1;36m       If you like this tool, consider donating for my projects      \e[0m*";
-echo -e "  *\e[1;31m               PAYPAL: https://paypal.me/SreeshankarK                \e[0m*";
-echo -e "  *                                                                     *";
-echo -e "  ***********************************************************************";
+echo -e "        ***********************************************************************";
+echo -e "        *\e[1;36m                  Tool developed by Sreeshankar K                    \e[0m*";
+echo -e "        *\e[1;31m                Github: https://github.com/Sanju0910                 \e[0m*";
+echo -e "        *                                                                     *";
+echo -e "        *\e[1;36m       If you like this tool, consider donating for my projects      \e[0m*";
+echo -e "        *\e[1;31m               PAYPAL: https://paypal.me/SreeshankarK                \e[0m*";
+echo -e "        *                                                                     *";
+echo -e "        ***********************************************************************";
 }
 get_var;
 clean_out;
